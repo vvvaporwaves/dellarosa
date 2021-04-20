@@ -1,0 +1,6 @@
+.info-departments li:before {
+	content: '\ec41';
+	font-size: 0.9rem;
+	font-family: "cappuccicons";
+	margin-right: 8px;
+}
